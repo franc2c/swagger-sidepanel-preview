@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.zip
+*.crx
+*.pem
+
+# Screenshots source files
+screenshots/*.psd
+screenshots/*.sketch
+screenshots/*.fig
+
+# Logs
+*.log
